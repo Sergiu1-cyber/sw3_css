@@ -1,0 +1,11 @@
+{
+  "name": "sw3_css",
+  "version": "1.0.0",
+  "description": "versia 4.15 creata in 12/2020, https://www.w3schools.com/w3css/4/w3.css",
+  "main": "w3.css",
+  "scripts": {
+    "test": "echo \"Pachetul w3css :)\" && exit 1"
+  },
+  "author": "Sergiu Manza",
+  "license": "ISC"
+}
